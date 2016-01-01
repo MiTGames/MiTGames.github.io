@@ -1,0 +1,32 @@
+{
+  "application": {
+    "Name": "JSON Test",
+    "Version": "1.0.0.0"
+  },
+  "errors": {
+    "err1": "Bla failed.",
+    "err2": "Bla bla failed."
+  },
+  "weapons": [
+    {
+      "id": 0,
+      "name": "BF Sword",
+      "attack": "45",
+      "stats": {
+        "power": 1,
+        "defence": 3,
+        "vitality": 2
+      }
+    },
+    {
+      "id": 1,
+      "name": "Steel Sword",
+      "attack": "15",
+      "stats": {
+        "power": 1,
+        "defence": 4,
+        "vitality": 2
+      }
+    }
+  ]
+}
